@@ -153,3 +153,7 @@ public class fibonancci extends AppCompatActivity {
 ```
 
 ## 3. Hasil 
+
+![P1](foto/P1.png)
+
+![P2](foto/P2.png)
