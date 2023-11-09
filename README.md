@@ -14,7 +14,7 @@ Kelas : TI.22.A2
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.sakmadik.fibonacci">
+    tools:context="com.example.sakmadik.MainActivity">
     
     <EditText
         android:id="@+id/edit_max_fibonacci"
@@ -111,7 +111,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class fibonancci extends AppCompatActivity {
+public class fibonacci extends AppCompatActivity {
     int first = 0;
     int second = 1;
     TextView Fibonacci;
